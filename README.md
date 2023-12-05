@@ -15,6 +15,9 @@ jasper report
 # Database
 fsh.sql
 
+# Isi Database
+Insert into buku.docks
+
 # DDL
 
 ![WhatsApp Image 2023-12-05 at 9 43 26 AM](https://github.com/Varatlan/Progress-pak-Anang-FINALE/assets/148843870/48c1e1da-6285-447d-90ab-61fc7cc7ed90)
@@ -57,4 +60,3 @@ Anggota
 Peminjaman(WIP)
 ![WhatsApp Image 2023-12-05 at 4 50 26 PM-3](https://github.com/Varatlan/Progress-pak-Anang-FINALE/assets/148843870/96d6102c-35ca-4772-83a4-dbb925438010)
 
-# Isi Database
