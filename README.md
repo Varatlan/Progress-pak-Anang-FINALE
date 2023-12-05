@@ -16,7 +16,7 @@ jasper report
 fsh.sql
 
 # Isi Database
-Insert into buku.docks
+Insert into buku.docx
 
 # DDL
 
