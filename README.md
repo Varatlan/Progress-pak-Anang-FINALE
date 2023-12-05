@@ -6,7 +6,11 @@ Apache NetBeans 15
 
 JDK 1.8
 
-Powerdesigner 16.5
+Power designer 16.5
+
+Persistence
+
+jasper report
 
 # Database
 fsh.sql
