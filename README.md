@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-12-05 at 9 43 50 AM](https://github.com/Varatlan/Progress-pak-Anang-FINALE/assets/148843870/cb040ec4-f4ca-4b08-812d-fbd8847359dc)# Progress-pak-Anang-FINALE
+# Progress-pak-Anang-FINALE
 # Menggunakan
 PostgreSQL 13
 
